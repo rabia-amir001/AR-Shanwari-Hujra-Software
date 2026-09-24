@@ -1,0 +1,44 @@
+{
+  "date": "2026-08-18 10:41:14",
+  "scope": "all",
+  "categoryName": "All",
+  "user": "Admin",
+  "reason": "Manual Inventory Reset",
+  "products": [
+    {
+      "id": 1,
+      "name": "Chicken Kabab",
+      "stock": 8
+    },
+    {
+      "id": 64,
+      "name": "Test Kabab ZeroInv_1787045733802",
+      "stock": 39
+    },
+    {
+      "id": 68,
+      "name": "Audit_Chicken_Kabab_1787047295804",
+      "stock": 134
+    },
+    {
+      "id": 70,
+      "name": "Audit_Chicken_Kabab_1787049027541",
+      "stock": 134
+    },
+    {
+      "id": 71,
+      "name": "ResetTest_1787049035222",
+      "stock": 40
+    },
+    {
+      "id": 72,
+      "name": "ResetTest_1787049054444",
+      "stock": 40
+    },
+    {
+      "id": 74,
+      "name": "ResetTest_1787049099210",
+      "stock": 40
+    }
+  ]
+}

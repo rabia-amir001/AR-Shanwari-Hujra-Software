@@ -1,0 +1,13 @@
+{
+  "date": "2026-08-18 10:30:35",
+  "scope": "products",
+  "user": "Admin",
+  "reason": "Automated Test Reset",
+  "products": [
+    {
+      "id": 71,
+      "name": "ResetTest_1787049035222",
+      "stock": 40
+    }
+  ]
+}

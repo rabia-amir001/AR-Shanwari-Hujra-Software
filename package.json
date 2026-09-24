@@ -1,0 +1,56 @@
+{
+  "name": "ar-shinwari-pos",
+  "version": "1.0.0",
+  "description": "AR Shinwari Hujra POS System",
+  "main": "main.js",
+  "scripts": {
+    "start": "concurrently \"npm.cmd run frontend\" \"npm.cmd run electron\"",
+    "backend": "node server.js",
+    "frontend": "npm.cmd --prefix frontend run dev",
+    "electron": "electron main.js",
+    "package": "npm.cmd run build --prefix frontend && electron-builder build --win"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "electron": "^30.0.1",
+    "electron-builder": "^26.15.3"
+  },
+  "build": {
+    "appId": "com.arshinwari.pos",
+    "productName": "AR Shinwari Hujra POS",
+    "directories": {
+      "output": "dist-electron",
+      "buildResources": "build"
+    },
+    "files": [
+      "main.js",
+      "preload.js",
+      "server.js",
+      "database.js",
+      "frontend/dist/**/*",
+      "node_modules/**/*"
+    ],
+    "win": {
+      "target": [
+        "nsis",
+        "portable"
+      ],
+      "icon": "build/icon.ico"
+    },
+    "nsis": {
+      "oneClick": true,
+      "allowToChangeInstallationDirectory": false,
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true,
+      "shortcutName": "AR Shinwari POS",
+      "installerIcon": "build/icon.ico",
+      "uninstallerIcon": "build/icon.ico"
+    }
+  }
+}

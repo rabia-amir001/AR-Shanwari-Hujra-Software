@@ -1,0 +1,13 @@
+{
+  "date": "2026-08-18 10:34:56",
+  "scope": "products",
+  "user": "Admin",
+  "reason": "Audit Verification Run",
+  "products": [
+    {
+      "id": 80,
+      "name": "ResetTest_1787049296626",
+      "stock": 40
+    }
+  ]
+}

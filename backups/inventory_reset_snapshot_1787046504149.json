@@ -1,0 +1,329 @@
+{
+  "date": "2026-08-18 09:48:24",
+  "scope": "all",
+  "categoryName": "All",
+  "user": "Admin",
+  "reason": "Manual Inventory Reset",
+  "products": [
+    {
+      "id": 1,
+      "name": "Chicken Kabab",
+      "stock": -38
+    },
+    {
+      "id": 2,
+      "name": "Beef Kabab",
+      "stock": 79
+    },
+    {
+      "id": 3,
+      "name": "Hara Bhara Kabab",
+      "stock": 93
+    },
+    {
+      "id": 4,
+      "name": "Gola Kabab",
+      "stock": 99
+    },
+    {
+      "id": 5,
+      "name": "Reshmi Kabab",
+      "stock": 99
+    },
+    {
+      "id": 6,
+      "name": "Lebanese Kabab",
+      "stock": 95
+    },
+    {
+      "id": 7,
+      "name": "Tikka Boti (7Pc)",
+      "stock": 42
+    },
+    {
+      "id": 8,
+      "name": "Wings (7Pc)",
+      "stock": 44
+    },
+    {
+      "id": 9,
+      "name": "Leg Piece",
+      "stock": 37
+    },
+    {
+      "id": 10,
+      "name": "Chest Piece",
+      "stock": 40
+    },
+    {
+      "id": 11,
+      "name": "Achari Boti (7Pc)",
+      "stock": 59
+    },
+    {
+      "id": 12,
+      "name": "Malai Boti (6Pc)",
+      "stock": 50
+    },
+    {
+      "id": 13,
+      "name": "Haryali Boti (6Pc)",
+      "stock": 50
+    },
+    {
+      "id": 14,
+      "name": "Shish Touk Boti (6Pc)",
+      "stock": 50
+    },
+    {
+      "id": 15,
+      "name": "Sajji Half",
+      "stock": 26
+    },
+    {
+      "id": 16,
+      "name": "Sajji Full",
+      "stock": 29
+    },
+    {
+      "id": 17,
+      "name": "Sajji Half + Rice",
+      "stock": 30
+    },
+    {
+      "id": 18,
+      "name": "Sajji Full + Rice",
+      "stock": 30
+    },
+    {
+      "id": 19,
+      "name": "Extra Rice Single",
+      "stock": 100
+    },
+    {
+      "id": 20,
+      "name": "Extra Rice Double",
+      "stock": 100
+    },
+    {
+      "id": 21,
+      "name": "Shinwari Lahori Mutton Karahi Half",
+      "stock": 19
+    },
+    {
+      "id": 22,
+      "name": "Shinwari Lahori Mutton Karahi Full",
+      "stock": 18
+    },
+    {
+      "id": 23,
+      "name": "Shinwari Mutton Karahi Half",
+      "stock": 20
+    },
+    {
+      "id": 24,
+      "name": "Shinwari Mutton Karahi Full",
+      "stock": 17
+    },
+    {
+      "id": 25,
+      "name": "Mutton Charsi Tikka Half",
+      "stock": 20
+    },
+    {
+      "id": 26,
+      "name": "Mutton Charsi Tikka Full",
+      "stock": 20
+    },
+    {
+      "id": 27,
+      "name": "Chicken White Boneless Half",
+      "stock": 30
+    },
+    {
+      "id": 28,
+      "name": "Chicken White Boneless Full",
+      "stock": 30
+    },
+    {
+      "id": 29,
+      "name": "Chicken Lahori Karahi Half",
+      "stock": 30
+    },
+    {
+      "id": 30,
+      "name": "Chicken Lahori Karahi Full",
+      "stock": 30
+    },
+    {
+      "id": 31,
+      "name": "Chicken Kabab Karahi Half",
+      "stock": 20
+    },
+    {
+      "id": 32,
+      "name": "Chicken Kabab Karahi Full",
+      "stock": 13
+    },
+    {
+      "id": 33,
+      "name": "Chicken Tikka Charsi Karahi Half",
+      "stock": 30
+    },
+    {
+      "id": 34,
+      "name": "Chicken Tikka Charsi Karahi Full",
+      "stock": 30
+    },
+    {
+      "id": 35,
+      "name": "Chicken Malai Boti Charsi Half",
+      "stock": 30
+    },
+    {
+      "id": 36,
+      "name": "Chicken Malai Boti Charsi Full",
+      "stock": 30
+    },
+    {
+      "id": 37,
+      "name": "Beef White Boneless Half",
+      "stock": 25
+    },
+    {
+      "id": 38,
+      "name": "Beef White Boneless Full",
+      "stock": 25
+    },
+    {
+      "id": 39,
+      "name": "Beef Boneless Karahi Half",
+      "stock": 22
+    },
+    {
+      "id": 40,
+      "name": "Beef Boneless Karahi Full",
+      "stock": 25
+    },
+    {
+      "id": 41,
+      "name": "Beef Kabab Karahi Half",
+      "stock": 20
+    },
+    {
+      "id": 42,
+      "name": "Beef Kabab Karahi Full",
+      "stock": 20
+    },
+    {
+      "id": 43,
+      "name": "Daal Chana Half",
+      "stock": 40
+    },
+    {
+      "id": 44,
+      "name": "Daal Chana Full",
+      "stock": 40
+    },
+    {
+      "id": 45,
+      "name": "Mix Sabzi Half",
+      "stock": 40
+    },
+    {
+      "id": 46,
+      "name": "Mix Sabzi Full",
+      "stock": 40
+    },
+    {
+      "id": 47,
+      "name": "Daal Kabab Masala",
+      "stock": 20
+    },
+    {
+      "id": 48,
+      "name": "Raita",
+      "stock": 200
+    },
+    {
+      "id": 49,
+      "name": "Green Salad",
+      "stock": 200
+    },
+    {
+      "id": 50,
+      "name": "Sada Roti (Per Head)",
+      "stock": 497
+    },
+    {
+      "id": 51,
+      "name": "Disposable",
+      "stock": 1000
+    },
+    {
+      "id": 52,
+      "name": "Soft Drink 250ml",
+      "stock": 499
+    },
+    {
+      "id": 53,
+      "name": "Soft Drink 1.5 Litre",
+      "stock": 200
+    },
+    {
+      "id": 54,
+      "name": "BBQ Deal #1 (1 Person)",
+      "stock": 50
+    },
+    {
+      "id": 55,
+      "name": "BBQ Deal #2 (1 Person)",
+      "stock": 50
+    },
+    {
+      "id": 56,
+      "name": "BBQ Deal #3 (1 Person)",
+      "stock": 50
+    },
+    {
+      "id": 57,
+      "name": "BBQ Deal #4 (1 Person)",
+      "stock": 47
+    },
+    {
+      "id": 58,
+      "name": "BBQ Deal #5 (2 Persons)",
+      "stock": 50
+    },
+    {
+      "id": 59,
+      "name": "BBQ Deal #6 (2 Persons)",
+      "stock": 50
+    },
+    {
+      "id": 60,
+      "name": "BBQ Deal #7 (3 Persons)",
+      "stock": 50
+    },
+    {
+      "id": 61,
+      "name": "Special Platter 101",
+      "stock": 20
+    },
+    {
+      "id": 62,
+      "name": "Special Platter 101",
+      "stock": 20
+    },
+    {
+      "id": 65,
+      "name": "ResetTest_1787046387174",
+      "stock": 40
+    },
+    {
+      "id": 66,
+      "name": "ResetTest_1787046409377",
+      "stock": 40
+    }
+  ]
+}

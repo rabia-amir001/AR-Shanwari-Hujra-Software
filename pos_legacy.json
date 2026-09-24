@@ -1,0 +1,30 @@
+{
+  "categories": [
+    {
+      "id": 99,
+      "name": "Special Legacy Cat"
+    }
+  ],
+  "units": [
+    {
+      "id": 99,
+      "name": "Tikka Skewer"
+    }
+  ],
+  "products": [
+    {
+      "name": "Legacy Charsi Tikka 1787049054767",
+      "urdu": "چارسی تکہ",
+      "price": 1200,
+      "cost_price": 600,
+      "category": "Special Legacy Cat",
+      "unit": "Tikka Skewer",
+      "image": "/images/legacy_tikka.png",
+      "available": 1
+    }
+  ],
+  "settings": {
+    "category_order": "[\"Special Legacy Cat\",\"Barbeque\"]",
+    "restaurant_name": "AR Shinwari Hujra Legacy Migrated"
+  }
+}

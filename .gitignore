@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+
+# Build outputs
+dist/
+dist-electron/
+frontend/dist/
+build/win-unpacked/
+
+# Executables and large binaries
+*.exe
+*.blockmap
+*.asar
